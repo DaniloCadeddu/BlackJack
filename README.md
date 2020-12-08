@@ -1,7 +1,7 @@
 # BlackJack
 Play a simple version of Blackjack from your terminal
 
-# How to run it
+## How to run it
 
 - Install Python
 
